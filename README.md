@@ -14,9 +14,9 @@ Problem 2 is worth 40 points.
 
 Problem 3 is worth 20 points.
 
-- [Problem 1 - Create a Car Class](https://github.com/belgort-clark/ctec-121-problem-set-13/tree/master/problem01) (worth 40 points)
-- [Problem 2 - Create a Simple Student Class](https://github.com/belgort-clark/ctec-121-problem-set-13/tree/master/problem02) (worth 40 points)
-- [Problem 3 - Grade That Exam](https://github.com/belgort-clark/ctec-121-problem-set-13/tree/master/problem03) (worth 20 points)
+- [Problem 1 - Create a Car Class](https://github.com/belgort-clark/ctec-121-1a-problem-set-8/tree/master/problem01) (worth 40 points)
+- [Problem 2 - Create a Simple Student Class](https://github.com/belgort-clark/ctec-121-1a-problem-set-8/tree/master/problem02) (worth 40 points)
+- [Problem 3 - Grade That Exam](https://github.com/belgort-clark/ctec-121-1a-problem-set-8/tree/master/problem03) (worth 20 points)
 
 ## Instructions
 
