@@ -1,7 +1,8 @@
 # Module 9 - Problem Set No. 8
+
 ## Problem 3
 
-## Grade That Exam
+### Grade That Exam
 
 You have been asked to develop a program to grade exams. Here are the requirements:
 

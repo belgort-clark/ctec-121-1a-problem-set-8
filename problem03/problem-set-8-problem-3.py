@@ -1,4 +1,5 @@
 # Module 9 - Problem Set No. 8
+# Your Name
 # Problem 3
 
 def calculate_average(score1, score2, score3, score4, score5):

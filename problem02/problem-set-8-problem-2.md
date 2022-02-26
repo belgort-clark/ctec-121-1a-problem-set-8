@@ -1,11 +1,12 @@
 # Module 9 - Problem Set No. 8
+
 ## Problem 2
 
-## Create a Simple Student Class
+### Create a Simple Student Class
 
 Develop a class named **Student** that holds the following data about a student in attributes:
 
-- name 
+- name
 - ID number
 - major
 - GPA
@@ -22,4 +23,4 @@ Gayle Ujifusa   1011            Baking          2.8
 Edna Anker      9875            Medical Office  3.0
 ```
 
-Now write a loop that iterates through the list of objects and displays each of the objects properties.
+Now write a loop that iterates through the list of objects and displays each of the objects properties
